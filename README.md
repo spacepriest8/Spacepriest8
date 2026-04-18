@@ -9,16 +9,9 @@
 
 * 🔧 Backend Developer with strong experience in **Django, Node.js, and MongoDB**
 * 📊 Data-focused professional with experience in **data analytics and process optimization**
-* 🏭 Currently working as a **Data Control Engineer & Document Controller** in the energy sector
+* 🏭 Currently working as a **Data Control Engineer** in the energy sector
 * 🧠 Passionate about building **scalable systems, optimizing performance, and solving real-world problems**
 * 
-**Tools & Others**
-
-* Git & GitHub
-* Linux
-* Postman
-* Docker (basic)
-
 ---
 
 ## 💡 Projects
@@ -62,12 +55,6 @@
 * TypeScript
 * System Design & Scalable Architectures
 * Advanced Backend Patterns
-
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: (Add your link here)
-* 📧 Email: (Add your email here)
 
 ## ⚡ Fun Fact
 
