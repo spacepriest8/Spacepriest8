@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Okoronkwo Kingsley Chikoadi</h1>
+<h1 align="center"> I'm Okoronkwo Kingsley Chikoadi</h1>
 <h3 align="center">Backend Developer | Data Engineer | Mechatronics Engineer</h3>
 
 ---
@@ -85,8 +85,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=spacepriest8&show_icons=true&theme=default" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spacepriest8" alt="streak" />
 </p>
 
 ---
