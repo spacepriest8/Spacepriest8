@@ -11,30 +11,7 @@
 * 📊 Data-focused professional with experience in **data analytics and process optimization**
 * 🏭 Currently working as a **Data Control Engineer & Document Controller** in the energy sector
 * 🧠 Passionate about building **scalable systems, optimizing performance, and solving real-world problems**
-* 🌍 Open to global opportunities (UK Global Talent pathway in view)
-
----
-
-## 🛠️ Tech Stack
-
-**Backend Development**
-
-* Node.js (Express)
-* Django (Python)
-* REST API Design
-
-**Frontend**
-
-* React.js
-* JavaScript (ES6+)
-* HTML, CSS, SCSS, Tailwind
-
-**Database & Data**
-
-* MongoDB
-* MySQL
-* Power BI
-
+* 
 **Tools & Others**
 
 * Git & GitHub
@@ -80,31 +57,17 @@
 * Implemented **indexing & query refactoring**
 * Reduced response time significantly using **job queues**
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spacepriest8&show_icons=true&theme=default" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spacepriest8" alt="streak" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 * TypeScript
 * System Design & Scalable Architectures
 * Advanced Backend Patterns
 
----
 
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: (Add your link here)
 * 📧 Email: (Add your email here)
-
----
 
 ## ⚡ Fun Fact
 
